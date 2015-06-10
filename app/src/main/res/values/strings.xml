@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">APLICACION DE SPINNER</string>
+    <string name="spinner"></string>
+    <string name="action_settings">Settings</string>
+    <string name="mensaje"> SSELECCIONA LO QUE DESEAS COMER</string>
+
+    <string-array name="COMIDA">
+        <item>TOSTADAS DE TINGA</item>
+        <item>TACOS DE CARNE</item>
+        <item>QUESADILLAS</item>
+        <item>ENCHILADAS</item>
+        <item>TORTAS DE POLLO</item>
+
+    </string-array>
+</resources>
